@@ -205,7 +205,7 @@ Si cette valeur maximale est présente plusieurs fois dans la liste, on retourne
 '''
 # Texte 2025
 
-l = [3,8,15,-1,0,12]
+'''l = [3,8,15,-1,0,12]
 
 def argmax(l):
     m,k = l[0],0
@@ -219,7 +219,7 @@ l = [3,8,15,-1,0,12]
 
 ma, po =argmax(l) 
 
-print("max : ", ma, "------>", po)
+''' print("max : ", ma, "------>", po)
 '''
 
 
